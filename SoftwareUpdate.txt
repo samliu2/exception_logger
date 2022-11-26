@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)

@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add Neural Magic Docs integrations page (#7234)

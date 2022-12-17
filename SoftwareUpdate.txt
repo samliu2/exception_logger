@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)

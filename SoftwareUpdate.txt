@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)

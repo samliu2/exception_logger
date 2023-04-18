@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Improve Docs arguments tables (#8415)

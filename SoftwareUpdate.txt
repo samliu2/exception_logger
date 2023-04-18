@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)

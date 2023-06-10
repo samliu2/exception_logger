@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)

@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Compare plt.get_backend() in lowercase (#8409)

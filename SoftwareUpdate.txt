@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)

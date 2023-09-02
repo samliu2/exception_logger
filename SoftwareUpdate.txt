@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)

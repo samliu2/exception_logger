@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)

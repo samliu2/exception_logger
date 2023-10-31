@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)

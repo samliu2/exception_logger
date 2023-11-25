@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix OpenVINO links (#7930)

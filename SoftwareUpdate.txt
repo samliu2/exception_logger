@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
